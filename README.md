@@ -1,8 +1,10 @@
 # DATA-SCIENCE-FOR-BUSINESS
 
-Dowload the 2 dataset for the officil Lombardia web site
+Download the 2 dataset for the officil Lombardia web site
   - https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc 
   - https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-cessati/nwz3-p6vm
+
+Download the file.zip and open it in order to have the data analysis on your local desktop
 
 Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab01" in order to view the 3 files that contains the data sets analisys.
 
