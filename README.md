@@ -7,3 +7,5 @@ Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Attivati" in orde
 Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Cessati" in order to view the analysis of the "Rapporti_di_lavoro_cessati" data set.
 
 Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Global" in order to view the comparison analysis of the first and the second data set.
+
+The folder "Graph Analysis" contains all the graph images
