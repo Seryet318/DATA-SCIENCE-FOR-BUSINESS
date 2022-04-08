@@ -6,7 +6,7 @@ Download the 2 dataset for the officil Lombardia web site
 
 Download the file.zip and open it in order to have the data analysis on your local desktop
 
-Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab01" in order to view the 3 files that contains the data sets analisys.
+Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab02" in order to view the 3 files that contains the data sets analisys.
 
 Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Attivati" in order to view the analysis of the "Rapporti_di_lavoro_attivati" data set.
 
@@ -14,5 +14,5 @@ Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Cessati" in order
 
 Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Global" in order to view the comparison analysis of the first and the second data set.
 
-The folder "Graph Analysis" contains all the graph images
+
 
