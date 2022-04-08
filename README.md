@@ -7,7 +7,7 @@ Download the 2 dataset from the "Lombardia" web site
 Download "DATA-SCIENCE-FOR-BUSINESS-Lab01" file zip and open it in order to have the data analysis regarding the first laboratory delivery on your local desktop;
 Download "DATA-SCIENCE-FOR-BUSINESS-Lab02" file zip and open it in order to have the data analysis regarding the first laboratory delivery on your local desktop;
 
-Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab02" in order to view the 3 files that contains the data sets analisys.
+Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab02" in order to view the 3 files that contains the data set analisys.
 
 Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Attivati" in order to view the analysis of the "Rapporti_di_lavoro_attivati" data set.
 
