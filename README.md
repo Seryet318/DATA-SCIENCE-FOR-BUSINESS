@@ -1,6 +1,6 @@
 # DATA-SCIENCE-FOR-BUSINESS
 
-Download the 2 dataset for the officil Lombardia web site
+Download the 2 dataset from the "Lombardia" web site
   - https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc 
   - https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-cessati/nwz3-p6vm
 
