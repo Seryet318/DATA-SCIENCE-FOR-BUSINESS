@@ -8,9 +8,9 @@ Download "DATA-SCIENCE-FOR-BUSINESS-Lab01" file zip and open it in order to have
 
 Download "DATA-SCIENCE-FOR-BUSINESS-Lab02" file zip and open it in order to have the data analysis regarding the second laboratory delivery on your local desktop;
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab03" in order to view the 3 files that contains the data set analisys.
+Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab03" in order to view the 3 files that contains the data set analisys of the third laboratory delivery.
 
 Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Attivati" in order to view the analysis of the "Rapporti_di_lavoro_attivati" data set.
 
