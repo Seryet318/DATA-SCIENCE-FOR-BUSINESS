@@ -5,8 +5,9 @@ Download the 2 dataset from the "Lombardia" web site
   - https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-cessati/nwz3-p6vm
 
 Download "DATA-SCIENCE-FOR-BUSINESS-Lab01" file zip and open it in order to have the data analysis regarding the first laboratory delivery on your local desktop;
+
 Download "DATA-SCIENCE-FOR-BUSINESS-Lab02" file zip and open it in order to have the data analysis regarding the second laboratory delivery on your local desktop;
-Download "DATA-SCIENCE-FOR-BUSINESS-Lab03" file zip and open it in order to have the data analysis regarding the third laboratory delivery on your local desktop;
+
 
 Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab03" in order to view the 3 files that contains the data set analisys.
 
