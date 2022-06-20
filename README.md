@@ -15,3 +15,5 @@ Download "DATA-SCIENCE-FOR-BUSINESS-Lab03" file zip and open it in order to have
 Download "GuanettiAlice738422_Macchidaniele731008_FinalDelivery" file zip and open it in order to have the data analysis regarding the final delivery on your local desktop;
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Please open the folder "GuanettiAlice738422_Macchidaniele731008_FinalDelivery" in order to view Lavori_Cessati, Lavori_Attivati and Lavori_Globali code in jupyter notebook (in the sub-folder "Graph Analysis" thre are the images of the graph).
