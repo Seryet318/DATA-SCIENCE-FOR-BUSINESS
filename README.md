@@ -10,15 +10,10 @@ Download "DATA-SCIENCE-FOR-BUSINESS-Lab02" file zip and open it in order to have
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_FinalDelivery" in order to view the files that contains the data set analisys of the final delivery.
+Open the file zip "GuanettiAlicemat738422_MacchiDanielemat731008_FinalDelivery" in order to view the files that contains the data set analisys of the final delivery.
 
-Open the folder "GuanettiAlicemat738422_MacchiDanielemat731008_Lab03" in order to view the 3 files that contains the data set analisys of the third laboratory delivery.
+Open the file zip "GuanettiAlicemat738422_MacchiDanielemat731008_Lab01" in order to view the 3 files that contains the data set analisys of the first laboratory delivery.
 
-Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Attivati" in order to view the analysis of the "Rapporti_di_lavoro_attivati" data set.
+Open the file zip "GuanettiAlicemat738422_MacchiDanielemat731008_Lab02" in order to view the 3 files that contains the data set analisys of the second laboratory delivery.
 
-Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Lavori_Cessati" in order to view the analysis of the "Rapporti_di_lavoro_cessati" data set.
-
-Open the "GuanettiAlicemat738422_MacchiDanielemat731008_Global" in order to view the comparison analysis of the first and the second data set.
-
-
-
+Open the file zip "GuanettiAlicemat738422_MacchiDanielemat731008_Lab03" in order to view the 3 files that contains the data set analisys of the third laboratory delivery.
